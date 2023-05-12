@@ -1,5 +1,5 @@
 #simple smart-home
-System asks user to enter the password using KEYPAD and print each entry in keypad and checks this entry with correct password(15987).
+System asks user to enter the password using KEYPAD and prints each entry in keypad and checks this entry with correct password(15987).
 
 in case of wrong password -->
 
@@ -13,7 +13,7 @@ and then ask again to enter the password.
 
 in case of corret password -->
 
-    -it can enter to the system ,LCD will print 'loading'
+    -it can enter to the system ,LCD will print 'loading' until it do the operations
     
     -yellow led will light up to indicate the correct password  
     
@@ -25,4 +25,4 @@ in case of corret password -->
     
     -temperature sensor sense the temperature in the Home and Display the temperature on the LCD 
     
-    -LDR sensor will sense the light intensity in home LEDS will light up according the level of darkness in home by the help of ADC peripheral.
+    -LDR sensor will sense the light intensity in home ,LEDS will light up according the level of darkness in home by the help of       ADC peripheral.
